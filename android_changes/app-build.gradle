@@ -1,0 +1,2 @@
+// Add this line at top for configuring react-native-config
+apply from: project(':react-native-config').projectDir.getPath() + "/dotenv.gradle"
