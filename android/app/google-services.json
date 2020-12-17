@@ -1,0 +1,39 @@
+{
+	"project_info": {
+		"project_number": "310016417556",
+		"project_id": "pendingordersapp",
+		"storage_bucket": "pendingordersapp.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:310016417556:android:4cac1ef8b1f0ef6265ac01",
+				"android_client_info": {
+					"package_name": "com.pendingorders"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "310016417556-04ekdk6rll4d38rhu522289k638iioqv.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyDIPmj172ERaR2_kKKEJq2Zzb6F-LWe94E"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "310016417556-04ekdk6rll4d38rhu522289k638iioqv.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
