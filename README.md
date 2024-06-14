@@ -1,5 +1,7 @@
 # Pending Orders App
 
+A mobile application designed to manage and track pending orders efficiently. Features include OTP-based authentication, a comprehensive pending orders list, and real-time location tracking via Google Maps, updating user location based on notifications.
+
 ### Features
 1. Authentication with OTP notifications
 2. Screen to list all pending orders
